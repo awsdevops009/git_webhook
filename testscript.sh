@@ -3,4 +3,4 @@ echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "This was added"
-echo "This is added second time"
+echo "This is added third time"
